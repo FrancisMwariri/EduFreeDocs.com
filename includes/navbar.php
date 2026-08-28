@@ -58,28 +58,28 @@
                 <section class="hidden lg:flex items-center gap-1">
 
                     <a
-                            href="#"
+                            href="../../EduFreeDocs.com/index.php"
                             class="font-bold text-sm px-3 py-2 hover:border-b-2 hover:border-orange-500 transition"
                     >
                         Home
                     </a>
 
                     <a
-                            href="#"
+                            href="../../EduFreeDocs.com/pages/schools.php"
                             class="font-bold text-sm px-3 py-2 hover:border-b-2 hover:border-orange-500 transition"
                     >
                         School
                     </a>
 
                     <a
-                            href="#"
+                            href="../../EduFreeDocs.com/pages/courses.php"
                             class="font-bold text-sm px-3 py-2 hover:border-b-2 hover:border-orange-500 transition"
                     >
                         Course
                     </a>
 
                     <a
-                            href="#"
+                            href="../../EduFreeDocs.com/pages/past-papers.php"
                             class="font-bold text-sm px-3 py-2 hover:border-b-2 hover:border-orange-500 transition"
                     >
                         Past Papers
